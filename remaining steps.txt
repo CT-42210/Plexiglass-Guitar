@@ -1,0 +1,13 @@
+Plexiglass Guitar Description
+
+steps to finnish:
+- finnish designing rough vectors
+- polish vectors, with exact layers and to scale
+- lasercut the Plexiglas
+- paint the plexiglass layers
+- fuse the guitar body together (unsure how to do this)
+- install all the components the way a normal guitar would work
+- string
+- test
+
+if it works, hurray!
