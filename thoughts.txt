@@ -1,0 +1,16 @@
+necicary things to think about
+
+lazer cut reference:
+- it may be smart to lazercut one plexiglass as a reference for the measurements
+    - it might be difficult to see how it all comes together with actual measurements
+    - can use dry erase marker >:)
+
+scale length: (check [links.md] )
+- distance from nut to 12th fret is the same distance from 12th fret to saddle
+    - we have a choice: 
+        - place the bridge first
+        - place the kneck first 
+            - problably the smarter idea
+
+hiding wires:
+- we may want to make wiring tunnels smaller, to make it less obvious
